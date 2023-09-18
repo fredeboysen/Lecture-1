@@ -1,3 +1,3 @@
 # Lecture-1
-Assignment for lecture 
+Assignment for lecture \n
 I look forward to learn more about github
